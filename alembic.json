@@ -1,0 +1,22 @@
+{
+  "packageId": "pkg-g9-critic-my-first-course-3zzk18n1",
+  "title": "[G9 critic] My first course",
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-17T15:49:08.991Z",
+  "schemaVersion": 3,
+  "units": [
+    {
+      "slug": "atoms",
+      "title": "Atoms"
+    },
+    {
+      "slug": "bonds",
+      "title": "Bonds"
+    }
+  ],
+  "type": "oer-course@1",
+  "harness": {
+    "name": "oer-course",
+    "version": "coursewerk-1.0.5"
+  }
+}

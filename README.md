@@ -1,10 +1,10 @@
-# Alembic OER package (public)
+{{nyml
+kind: document
+format: 1
+title: [G9 critic] My first course
+uid: doc-vurx67j72p9u
+}}
 
-This repository holds the **public** half of an Alembic open educational
-resource package: the study guide, public materials, provenance, metadata, and
-the published site source. Its companion **private** repository holds
-instructor notes, answer keys, and embargoed assessments.
+# [G9 critic] My first course
 
-Managed with [Alembic](https://github.com/wangyu16/Alembic), but this is a
-plain Git repository — it remains usable, buildable, and adaptable without the
-platform. The package manifest is `alembic.json`.
+*What this course is, who it is for, and how to use its chapters.*
