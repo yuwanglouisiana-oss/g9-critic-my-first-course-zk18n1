@@ -1,0 +1,139 @@
+{
+  "assets": [
+    {
+      "path": "CITATION.cff",
+      "sha256": "81b1bd0de52af658738321717837d5f5559ff2210cc64cf1f34fb4fb5027d5a0"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "9e5f1b3c610b9c2da5c313bf81d577a7d1acec686bdb0384edefa6df0f90cd94"
+    },
+    {
+      "path": "index.html",
+      "sha256": "4ac7573b1c87a52cce726801e1c5ce1cef0e08e309d0220eae884de6d5407308"
+    }
+  ],
+  "baseUrl": "https://yuwanglouisiana-oss.github.io/g9-critic-my-first-course-zk18n1/",
+  "carriers": {
+    "md": {
+      "version": "1.2.0"
+    },
+    "slides": {
+      "version": "1.2.0"
+    }
+  },
+  "config": {
+    "sha256": "db2e2d13fd99b528e34247dcbf95281cabdb56df9c2369857648166ea23855d5"
+  },
+  "documents": [
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "93cda0d9c48389a64fe0f27eaab80e3318ccfac5498cafa0afa3b0fb8aac933c",
+      "kind": "md",
+      "output": "README.md.html",
+      "outputSha256": "accc3a6b535b4cd31bb5a4ff89fe1e147ba20a2211e57e9e74e0833a42b2bc4e",
+      "path": "README.md",
+      "sha256": "afa02d989d275f955f7bdb579ade0672de5fe882dbb806d9a3b3cd9fec9ffc46",
+      "title": "[G9 critic] My first course",
+      "uid": "doc-vurx67j72p9u"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "2ef30afa88ad868f847f5f287360362c420ffa85ead50a8d9af67b90d1b1f20c",
+      "kind": "md",
+      "output": "index.md.html",
+      "outputSha256": "f580780493b4efee602c0590166b7ad62d1ad8843bde1009cbbc254a5c5b5880",
+      "path": "index.md",
+      "sha256": "246ff9f3854004e28e706fa6c3946f395717f97473dcbad0bc516275113e0efa",
+      "title": "[G9 critic] My first course"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "3ee49d32f4906cadd232302a73961bcb63e9229fdcebca827bd60e8d6cfb1760",
+      "kind": "md",
+      "output": "practice/atoms.md.html",
+      "outputSha256": "1851abc42e61485a4ad2bf01f862ab44fb42cfef6d2f660d6b1c94b21b304122",
+      "path": "practice/atoms.md",
+      "sha256": "a9f9a0b27819c1875052c33da02148e77edd4a1daad92f303ddcad6b31ec5622",
+      "title": "Atoms",
+      "uid": "doc-p0wmd557io6b"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "122d17d71d320e9741aceca73d85a145214c77b16fdf63240b85104dc9629223",
+      "kind": "md",
+      "output": "practice/bonds.md.html",
+      "outputSha256": "858e8b1e8d3792a63d63714dd10e1b27c06dfb40fd0512dc9ea8b13bef782e92",
+      "path": "practice/bonds.md",
+      "sha256": "93cb8641973f81ad4407905d402932569d6173dace1cbcb07d890d36c8b358c2",
+      "title": "Bonds",
+      "uid": "doc-8d6yi60bjf8l"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "29d10381f3f5087e52d521c66f23b5f8306befd6b7874193f1b50f461370b850",
+      "kind": "slides",
+      "output": "slides/atoms.slides.html",
+      "outputSha256": "61fe8967b15c1e46ac4c53bdd45f9713e93c7c6f1185241a02deb9691dafd090",
+      "path": "slides/atoms.slides.md",
+      "sha256": "49f8a0d924ffd49f9759293cad75308823b08f12a0b906a85b68ee1fd7e54136",
+      "title": "Atoms",
+      "uid": "doc-poffccl90ndz"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "22f18707db63c28dd0c818011ca51363bcda08247550c15d443f4a1ad7bcdec3",
+      "kind": "slides",
+      "output": "slides/bonds.slides.html",
+      "outputSha256": "e7d454c407312d34c84d7d2db684fba31ec24521fe7745f2232303a0b7df5268",
+      "path": "slides/bonds.slides.md",
+      "sha256": "23e7891a9a9583fbc987c099f736c3a2c3dc905713f8664bf994463277730f50",
+      "title": "Bonds",
+      "uid": "doc-h749dpa7g1lj"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "55b6b8531052634bf750a52c798a87a5734849d991f2e45ca2ec5d7862dd7620",
+      "kind": "md",
+      "output": "study-guide/atoms.md.html",
+      "outputSha256": "c72e2b15f0d0a7a1d11f5af56e841c7c3e2a18b46533ea06fee524fed4a8007e",
+      "path": "study-guide/atoms.md",
+      "sha256": "cd0566127785c43de4750557422f84fc76150d0d280d0592aa9ae2df65ff73e2",
+      "title": "Atoms",
+      "uid": "doc-tyyobrwmdml3"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "9fcb80924483bbfe0a4f7bff845fdddca476076f1d384ae36e6bef4677c08495",
+      "kind": "md",
+      "output": "study-guide/bonds.md.html",
+      "outputSha256": "b74ebde9aad15a28018fdcd66ef1d9c14fb5ee6ff170be4f4c8647b6d8d6a2cb",
+      "path": "study-guide/bonds.md",
+      "sha256": "f997e55fd5a5b923fb4821385d3fe68fcb195f3da7444feb26a505dc01c8affd",
+      "title": "Bonds",
+      "uid": "doc-oy1d6o73whei"
+    }
+  ],
+  "format": 1,
+  "generated": [
+    {
+      "path": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "3b5a38a69a2b59e2036a0591b4b40b12a8b7c7e9deb6440b1d18dce11534ed5b"
+    }
+  ],
+  "generator": "orz-site 0.1.0",
+  "naming": "family",
+  "skipped": []
+}
