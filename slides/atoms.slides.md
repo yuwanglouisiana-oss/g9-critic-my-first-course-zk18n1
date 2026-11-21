@@ -22,3 +22,6 @@ theme: paper
 <!-- slide template=closing -->
 ## Summary
 - Key point
+
+
+Reader-copy check 2026-11-21: slides note.

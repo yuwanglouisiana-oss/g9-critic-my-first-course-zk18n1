@@ -25,3 +25,5 @@ uid: doc-tyyobrwmdml3
 So carbon-12 has 6 protons, 6 neutrons and 6 electrons.
 
  An atom has a nucleus of protons and neutrons, surrounded by electrons. Water is $\ce{H2O}$ and $E = mc^2$.
+
+ Reader-copy check 2026-11-21T15:39: atoms are tiny.
